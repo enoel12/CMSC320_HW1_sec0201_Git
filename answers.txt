@@ -9,3 +9,7 @@ Answer: Data science could be applied to finance to analyze transaction data and
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves both histories while rebasing puts them on top of each other.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Living in an apartment for the first time!
